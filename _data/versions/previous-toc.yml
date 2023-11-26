@@ -1,18 +1,13 @@
-- title: Modules
+- title: Documentation
   url: docs
   links:
-    - title: "Breaking Down Problems into Actionable Steps"
+    - title: "1. Breaking Down Problems into Actionable Steps"
       url: "docs/breaking-down-problems"
-    - title: Versioning
-      url: "docs/versioning"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
-- title: "Extras"
-  url: "docs/extras"
-  links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
+    - title: "2. Get Code Explained to You"
+      url: "docs/get-code-explained"
+    - title: "3. Grasping New Concepts"
+      url: "docs/grasping-new-concepts"
+    - title: "4. Brainstorming About an Idea or a Topic"
+      url: "docs/brainstorming-about-idea"
+    - title: "5. Get Help During Your Thesis"
+      url: "docs/thesis-help"
